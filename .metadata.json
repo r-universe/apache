@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "arrow",
+    "oncran": true
+  }
+]
