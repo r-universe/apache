@@ -1,7 +1,6 @@
 [
   {
     "package": "arrow",
-    "oncran": true,
-    "releasetag": true
+    "oncran": true
   }
 ]
