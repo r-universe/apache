@@ -9,3 +9,9 @@
 	shallow = true
 	subdir = r
 	registered = true
+[submodule "nanoarrow"]
+	path = nanoarrow
+	url = https://github.com/apache/arrow-nanoarrow
+	shallow = true
+	subdir = r
+	registered = true
