@@ -1,10 +1,8 @@
 [
   {
-    "package": "arrow",
-    "oncran": true
+    "package": "arrow"
   },
   {
-    "package": "nanoarrow",
-    "oncran": true
+    "package": "nanoarrow"
   }
 ]
