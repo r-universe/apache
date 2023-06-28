@@ -1,17 +1,12 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "arrow"]
 	path = arrow
 	url = https://github.com/apache/arrow
-	shallow = true
 	subdir = r
-	registered = true
 [submodule "nanoarrow"]
 	path = nanoarrow
 	url = https://github.com/apache/arrow-nanoarrow
-	shallow = true
 	subdir = r
-	registered = true
