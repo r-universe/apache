@@ -10,6 +10,10 @@
 	path = adbcsqlite
 	url = https://github.com/apache/arrow-adbc
 	subdir = r/adbcsqlite
+[submodule "apache.sedona"]
+	path = apache.sedona
+	url = https://github.com/apache/sedona
+	subdir = R
 [submodule "arrow"]
 	path = arrow
 	url = https://github.com/apache/arrow
