@@ -6,6 +6,10 @@
 	path = adbcdrivermanager
 	url = https://github.com/apache/arrow-adbc
 	subdir = r/adbcdrivermanager
+[submodule "adbcpostgresql"]
+	path = adbcpostgresql
+	url = https://github.com/apache/arrow-adbc
+	subdir = r/adbcpostgresql
 [submodule "adbcsqlite"]
 	path = adbcsqlite
 	url = https://github.com/apache/arrow-adbc
