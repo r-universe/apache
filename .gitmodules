@@ -2,6 +2,14 @@
 	path = .registry
 	url = https://github.com/r-universe-org/apache.r-universe.dev
 	branch = HEAD
+[submodule "adbcdrivermanager"]
+	path = adbcdrivermanager
+	url = https://github.com/apache/arrow-adbc
+	subdir = r/adbcdrivermanager
+[submodule "adbcsqlite"]
+	path = adbcsqlite
+	url = https://github.com/apache/arrow-adbc
+	subdir = r/adbcsqlite
 [submodule "arrow"]
 	path = arrow
 	url = https://github.com/apache/arrow
