@@ -2,14 +2,26 @@
 	path = .registry
 	url = https://github.com/r-universe-org/apache.r-universe.dev
 	branch = HEAD
+[submodule "adbcbigquery"]
+	path = adbcbigquery
+	url = https://github.com/apache/arrow-adbc
+	subdir = r/adbcbigquery
 [submodule "adbcdrivermanager"]
 	path = adbcdrivermanager
 	url = https://github.com/apache/arrow-adbc
 	subdir = r/adbcdrivermanager
+[submodule "adbcflightsql"]
+	path = adbcflightsql
+	url = https://github.com/apache/arrow-adbc
+	subdir = r/adbcflightsql
 [submodule "adbcpostgresql"]
 	path = adbcpostgresql
 	url = https://github.com/apache/arrow-adbc
 	subdir = r/adbcpostgresql
+[submodule "adbcsnowflake"]
+	path = adbcsnowflake
+	url = https://github.com/apache/arrow-adbc
+	subdir = r/adbcsnowflake
 [submodule "adbcsqlite"]
 	path = adbcsqlite
 	url = https://github.com/apache/arrow-adbc
