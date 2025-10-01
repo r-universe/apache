@@ -39,3 +39,7 @@
 	path = nanoarrow
 	url = https://github.com/apache/arrow-nanoarrow
 	subdir = r
+[submodule "sedonadb"]
+	path = sedonadb
+	url = https://github.com/apache/sedona-db
+	subdir = r/sedonadb
